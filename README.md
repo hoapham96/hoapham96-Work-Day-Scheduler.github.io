@@ -19,3 +19,8 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
+
+## link to deployed application 
+https://hoapham96.github.io/hoapham96-Work-Day-Scheduler.github.io/
+
+![image](https://user-images.githubusercontent.com/89959754/145737283-f4cd4a50-b33d-4266-8158-4c805eff212e.png)
